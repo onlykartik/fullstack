@@ -1,3 +1,7 @@
-var number = 8
-var about  = "my name is karthik im going to get a job in infosis, cognizent, vipro,"
-console.log(number + about)
+var ppd  = "my name is karthik, cognizent, vipro,"
+console.log( ppd)
+consoel.log("hi now im learning git nad git hub ")
+var number = 88
+var akki = "my name"
+var padma = "my mother"
+console.log(akki + ramya);
