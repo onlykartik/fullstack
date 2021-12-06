@@ -1,8 +1,8 @@
 
-var about  = "my name is karthik, cognizent, vipro,"
-console.log( about)
+var ppd  = "my name is karthik, cognizent, vipro,"
+console.log( ppd)
 consoel.log("hi now im learning git nad git hub ")
 var number = 88
-var karthik = "my name"
-var ramya = "my mother"
-console.log(karthik + ramya);
+var akki = "my name"
+var padma = "my mother"
+console.log(akki + ramya);
